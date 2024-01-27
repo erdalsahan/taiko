@@ -1,7 +1,7 @@
 # Taiko
 ##### [Docs](https://docs.taiko.dev) | [API reference](https://docs.taiko.dev/api/reference) 
 
-A Node.js library for testing modern web applications
+A Node.js library for testing modern web applications 
 
 [![Actions Status](https://github.com/getgauge/taiko/workflows/taiko/badge.svg)](https://github.com/getgauge/taiko/actions)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/getgauge/taiko/blob/master/LICENSE)
